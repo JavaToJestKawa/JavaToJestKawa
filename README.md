@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm a Computer Science student focused on software engineering, machine learning and backend development.
+I'm a Computer Science student building backend and data-driven applications with Python, FastAPI, SQL, and machine learning.
 
 ## Tools & technologies
 
