@@ -32,3 +32,8 @@ Backend applications, data-driven systems and machine learning.
 ## Contact
 
 [LinkedIn](https://www.linkedin.com/in/bartoszlukasikit/)
+
+##
+
+[![YouTube](https://img.shields.io/badge/YouTube-Watch%20demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/MKf9kwbWDHw?si=_CNPIUIIQrTjoZ81)
+[![YouTube](https://img.shields.io/badge/YouTube-Watch%20demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/K4yceb5rn1Y?si=YYST775-EGhwVGYs)
